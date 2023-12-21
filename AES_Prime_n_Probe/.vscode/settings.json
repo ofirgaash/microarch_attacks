@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "inttypes.h": "c",
+        "prime_and_probe.h": "c"
+    }
+}
